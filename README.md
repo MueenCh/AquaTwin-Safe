@@ -92,7 +92,9 @@ https://github.com/MueenCh/AquaTwin-Safe
 
 ## Citation
 
-If you use this repository, please cite the associated AquaTwin-Safe research manuscript. The complete bibliographic citation and DOI will be added following publication.
+Please cite the archived software release as:
+
+Mueen ud Din (2026). *AquaTwin-Safe: Reproducible Temporal Anomaly Detection for Cyber-Secure Water Digital Twins* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22226196
 
 ## Author
 
@@ -111,5 +113,9 @@ The author received no specific funding for this research.
 The author declares no competing interests.
 
 ## License
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22226196.svg)](https://doi.org/10.5281/zenodo.22226196)
+
+**Permanent software DOI:** https://doi.org/10.5281/zenodo.22226196
 
 This repository is intended for academic research and reproducibility. See the `LICENSE` file for usage conditions.
