@@ -12,6 +12,7 @@ authors:
     affiliation: "Department of Computer Science, Riphah International University, Pakistan"
 
 repository-code: "https://github.com/MueenCh/AquaTwin-Safe"
+doi: "10.5281/zenodo.22226196"
 
 keywords:
   - anomaly detection
