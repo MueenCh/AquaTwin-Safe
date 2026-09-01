@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the following information."
+title: "AquaTwin-Safe: Reproducible Temporal Anomaly Detection for Cyber-Secure Water Digital Twins"
+type: software
+version: 1.0.0
+date-released: 2026-09-01
+
+authors:
+  - family-names: "ud Din"
+    given-names: "Mueen"
+    email: "mueen80@gmail.com"
+    affiliation: "Department of Computer Science, Riphah International University, Pakistan"
+
+repository-code: "https://github.com/MueenCh/AquaTwin-Safe"
+
+keywords:
+  - anomaly detection
+  - BATADAL
+  - cybersecurity
+  - digital twin
+  - LSTM autoencoder
+  - water distribution systems
+
+license: MIT
