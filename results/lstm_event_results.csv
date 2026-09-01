@@ -1,0 +1,8 @@
+Attack_ID,Attack_Hours,Detected_Hours,Coverage_Percent,Event_Detected,First_Detection,Detection_Delay_Hours
+8,70,7,10.0,True,2017-01-19 00:00:00,63.0
+9,65,55,84.61538461538461,True,2017-01-30 14:00:00,6.0
+10,31,31,100.0,True,2017-02-09 03:00:00,0.0
+11,31,31,100.0,True,2017-02-12 01:00:00,0.0
+12,100,82,82.0,True,2017-02-24 10:00:00,5.0
+13,80,0,0.0,False,,
+14,30,0,0.0,False,,

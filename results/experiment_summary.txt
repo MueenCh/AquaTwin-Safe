@@ -1,0 +1,19 @@
+
+BATADAL EXPERIMENT COMPLETED
+
+Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+TensorFlow: 2.21.0
+Pandas: 3.0.5
+NumPy: 2.4.6
+Scikit-learn: 1.9.0
+
+Window size: 24 hours
+Dense Autoencoder threshold: 99th percentile
+LSTM Autoencoder threshold: 97.5th percentile
+Random seed: 42
+
+Best Model: LSTM Autoencoder
+Accuracy: 0.8548
+Precision: 0.6754
+Recall: 0.5061
+F1-score: 0.5787
